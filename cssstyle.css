@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	nav{
+		
+		opacity:0.8;
+		
+		
+	}
+	
+    ul li {
+
+		color:#FF0;
+		}
+.container{
+ color: maroon;
+}
+
+ul li ul li{
+		
+		display:none;} /* list k andar wali list mouse over k bina show nahi hu gi */
+		
+		ul li:hover ul li{
+			display:block;
+			opacity:9.5;
+		}
