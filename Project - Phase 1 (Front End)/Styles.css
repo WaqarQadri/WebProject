@@ -1,0 +1,56 @@
+body {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top:55px;
+	margin-bottom: 20px;
+	border: 0px solid black;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 00px;
+	padding-bottom: 10px;
+	background-color:#E0E0E0;
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
+}
+
+.AboutUs {
+	text-align: center;
+}
+
+.Contact {
+	text-align: center;
+}
+
+.content-column {
+                            margin:0px;
+                            padding:10px;
+                            display:inline-block;
+                            vertical-align:top;
+                        }
+                        
+        .content-row {
+                        padding-top:150px;
+                        padding-left:30px;
+                        padding-bottom:5px;
+                        display:inline-block;
+                        width:100%;
+                        box-sizing:border-box;
+                      }
+                      
+        .usp-box {
+                        text-align:center;
+                    }
+    
+        .usp-img {
+                        text-align:center;
+                        padding-top:10px;
+                        width:100px;
+                  }
